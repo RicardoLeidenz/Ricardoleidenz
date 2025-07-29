@@ -5,3 +5,5 @@ Hi there 👋 I’m Ricardo a software developer who loves turning ideas into re
 I’m always eager to collaborate on software 💻 and game development 🎮 projects — whether it’s building something from scratch or contributing to an existing idea. Let’s connect 🤝 and explore how we can create something great together 🚀.
 
 Check out my Itch.io page https://rialz151.itch.io
+
+Check out my LinkedIn page https://www.linkedin.com/in/ricardoleidenz/
